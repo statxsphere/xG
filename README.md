@@ -1,4 +1,4 @@
-## An expected goals model for 5-a-side football.
+## An Expected Goals Model for 5-a-side Football.
 
 ### Predicting the probability of a shot turning into a goal.
 
